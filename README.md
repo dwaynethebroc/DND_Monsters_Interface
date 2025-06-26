@@ -33,6 +33,7 @@ It's a lightweight, easy-to-use utility that leverages JSON data and the Gson li
 * Java 8 or higher
 * Gson library (tested with gson-2.10.1.jar)
 * A properly formatted `monsters.json` file with monster data
+   (Sourced from https://gist.github.com/tkfu/9819e4ac6d529e225e9fc58b358c3479) credit to Jon Oster
 
 ### Running the Program
 
