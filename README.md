@@ -1,7 +1,3 @@
-Sure! Here's a clear and friendly README draft for your MonsterCLI project:
-
----
-
 # D\&D Monster CLI Tool
 
 A simple command-line tool for Dungeons & Dragons players and Dungeon Masters to explore and generate monster stats from a JSON monster database.
